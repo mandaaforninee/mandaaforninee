@@ -1,48 +1,56 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f3/43/b1/f343b1e4d9c7c3453d6c76d6ed3e0b8b.gif" width="100%" style="border-radius: 20px;" alt="Evening Pixel Art Banner" />
+<h1 style="font-family: 'Inter', sans-serif; font-size: 3em; font-weight: bold; margin-bottom: 0.5em; display: inline-block;">
+<span class="gradient-text" style="--color1: #ff0000; --color2: #ff7f00; --color3: #ffff00; --color4: #00ff00; --color5: #0000ff; --color6: #4b0082; --color7: #9400d3;">Halo, Saya [Nama Anda]!</span>
+</h1>
+<p style="font-size: 1.2em; color: #c9d1d9;">Selamat datang di profil GitHub saya! Saya seorang [Profesi Anda] yang bersemangat dalam [Minat Anda].</p>
 </div>
-
-<h1 align="center">🌆 𝙃𝙚𝙮, 𝙄’m <span style="color:#ffb347">Mandaa4Ninee</span> 🍃</h1>
 <p align="center">
-  <i>"Even on the windiest evening, your dreams won't be blown away — if you hold on tight enough."</i><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8BD3DD&center=true&vCenter=true&width=435&lines=Welcome+to+my+pixel+evening!;Code+is+my+canvas.;Design+is+my+peace.++💻+🎨" alt="Typing animation: Welcome to my pixel evening!;Code is my canvas.;Design is my peace." />
+<a href="https://www.google.com/search?q=https://github.com/your-username">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-username%26color%3Dblue" alt="Profile views" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/your-username%3Ftab%3Dfollowers">
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/your-username%3Fstyle%3Dsocial" alt="GitHub Followers" />
+</a>
+<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle">
+<img src="https://www.google.com/search?q=https://img.shields.io/twitter/follow/your-twitter-handle%3Fstyle%3Dsocial" alt="Twitter Follow" />
+</a>
 </p>
-
----
-
-### Tentang Aku
-
-* **Username:** Mandaa4Ninee
-* **Vibe:** Dreamy Coder 🍃
-* **Fokus:** Web Development, Aesthetic UI/UX
-* **Hobi:** Mendesain saat cuaca berangin dan langit oranye di luar.
-
----
-
-## 🎮 Pixel Game – Coconut Crash!
-
+🚀 Tentang Saya
+Saya seorang pengembang yang suka memecahkan masalah dan membangun hal-hal baru. Saya memiliki minat khusus pada:
+ * 💻 [Bidang Minat 1, contoh: Pengembangan Web Frontend]
+ * 🛠️ [Bidang Minat 2, contoh: Backend Development dengan Node.js]
+ * 📊 [Bidang Minat 3, contoh: Analisis Data & Machine Learning]
+Saya selalu terbuka untuk belajar teknologi baru dan berkolaborasi dalam proyek-proyek menarik.
+🛠️ Tech Stack
+Berikut adalah beberapa teknologi yang saya gunakan:
+ * Bahasa: JavaScript, Python, [Bahasa Lain]
+ * Framework Frontend: React, Vue.js, Angular, [Framework Lain]
+ * Framework Backend: Node.js (Express), Django, Flask, [Framework Lain]
+ * Database: PostgreSQL, MongoDB, MySQL, [Database Lain]
+ * Tools: Git, Docker, VS Code, [Tool Lain]
+📊 Statistik GitHub Saya
+🎵 Spotify Recently Played
 <div align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="220" alt="GIF of Coconut Crash game" />
-  <br>
-  <sub>Game pixel sederhana: Tangkap kelapa yang jatuh 🌴 & pecahkan! 🍈</sub><br>
-  <a href="https://your-game-link.vercel.app" target="_blank">
-    🔗 Mainkan Sekarang!
-  </a>
+<a href="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fusername%3Dyour-username%26theme%3Ddark">
+<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fusername%3Dyour-username%26theme%3Ddark" alt="Spotify Recently Played" />
+</a>
 </div>
-
----
-
-## 🪑 Animated Evening Vibes
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/54/88/0d/54880dfbd993bb245d603ba071c2411e.gif" width="400" alt="Animated GIF of a person sitting and enjoying the wind" /><br>
-  <sub>Duduk santai... menikmati angin... dan koding 💨</sub>
-</div>
-
----
-
-## 🌸 Aesthetic Profile
-
-**Tema:** Pixel Sunset Breeze
-**Palet Warna:** `#FFE9B1`, `#D2E0FB`, `#A0C3D2`, `#8D9EFF`
-**Suasana:** Tenang, damai, dengan bisikan angin melalui piksel.
+📫 Hubungi Saya
+Anda bisa menghubungi saya melalui:
+ * Email: emailanda@example.com
+ * LinkedIn: https://www.linkedin.com/in/nama-anda/
+ * Twitter: https://twitter.com/your-twitter-handle
+<style>
+.gradient-text {
+background: linear-gradient(to right, var(--color1), var(--color2), var(--color3), var(--color4), var(--color5), var(--color6), var(--color7));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+animation: gradient-animation 5s ease infinite;
+background-size: 200% 200%;
+}
+@keyframes gradient-animation {
+0% { background-position: 0% 50%; }
+50% { background-position: 100% 50%; }
+100% { background-position: 0% 50%; }
+}
+</style>
