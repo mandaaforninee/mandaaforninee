@@ -1,59 +1,81 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9tY3BvN3M4c3A1eHh2dTU3Znd2dzB6bDR0aXg5cWs2a2w0MmVhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPu3t6d7iX32W6A/giphy.gif" width="100%"/>
+<img src="https://i.ibb.co/DKwczpb/pixel-evening.gif" alt="Pixel Windy Evening" width="100%" />
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM4czRjM3hhaTZwbjFkMnF5Nzc5aWh6Zm56cWY0bGl6bnE4ZGN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eGx4c93iS6k6Y/giphy.gif" width="200" />
-</div>
-
-<h1 align="center">Hi there, I'm Mandaa4Ninee 👋</h1>
-<p align="center">
-  <em>A developer who finds peace in the gentle breeze of a pixelated sunset.</em>
-</p>
-
-<div align="center">
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
-[![Linkedin Badge](https://img.shields.io/badge/-Mandaa4Ninee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin_username/)](https://www.linkedin.com/in/your_linkedin_username/)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=84FFC9&center=true&vCenter=true&width=435&lines=Manda4FrNine+%E2%80%A2+Pixel+Evening+Coder;Crafting+calm+vibes+in+every+commit..." alt="Typing SVG" />
+</h1>
 
 </div>
 
 ---
 
-### <p align="center">"Programming isn't about what you know; it's about what you can figure out.” – Chris Pine [1, 5]</p>
+### ðŸŒ¬ï¸ Welcome to My Windy Codespace
+
+In a corner of the internet where the sky glows orange  
+And coconuts fall in slow motion...  
+I build.
+
+Not just with code, but with quiet, care, and creativity.  
+My world isn't about speed â€” it's about **soulful builds** under pixel skies ðŸ‚
 
 ---
 
+### ðŸ’» Code + Chill Setup
+
+```yaml
+Skills & Stack:
+  - HTML, CSS, JavaScript, PHP
+  - Node.js, Baileys, Termux & Linux
+
+Coding Fuel:
+  - Lo-fi beats + evening breeze
+  - Tea with keyboard
+  - Zero rush, full focus
+```
+
+---
+
+### ðŸ•¹ï¸ Game Vibe (Concept)
+
+A tiny game...  
+ðŸ¥¥ Coconuts drop from the sky  
+ðŸ§˜ You tap to break them softly  
+ðŸŒ† Sunset pixel background with slow breeze  
+ðŸŽ¶ Lo-fi chiptune plays while time slows down...
+
+> *â€œNo timer. Just tap & relax.â€*
+
+---
+
+### ðŸ§˜ Pixel Stillness
+
 <div align="center">
-  <h3>🌴 Coconut Fall Game 🌴</h3>
-  <p>Help! The coconuts are falling. Click to smash them!</p>
-  <a href="https://your-game-url.com"> <!-- Ganti dengan URL game Anda -->
-    <img src="https://media.giphy.com/media/3o7aD4ubSo42k42TjG/giphy.gif" width="300"/>
-  </a>
+  <img src="https://i.ibb.co/tY2JrFt/pixel-guy-sitting.gif" width="220px"/>
+  <br/><em>"Stillness is the loudest kind of strength." ðŸŒ¤ï¸</em>
 </div>
 
 ---
 
-### Languages and Tools:
+### ðŸ“ Pixel Quotes of the Wind
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git" />
-  </a>
-</p>
+> *â€œEven in storms, the sun sets beautifully.â€*  
+> *â€œCode not to impress, but to express.â€*  
+> *â€œPeaceful minds push powerful commits.â€*  
+> *â€œThe best code is written when no one's rushing.â€*
 
 ---
 
 <div align="center">
-  <h3>My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mandaa4Ninee&show_icons=true&theme=radical" alt="Mandaa4Ninee's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandaa4Ninee&layout=compact&theme=radical" alt="Top Langs" />
-</div>
 
-<div align="center">
+ðŸŒ¸ Thank you for stopping by  
+Let your journey be warm, your mind be soft  
+And your commits feel like poetry ðŸ
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N2cmNrdXJqdTJjcmZ0dGI0eGo0Y3B0c2N5eGUzamVzZHB6eHVoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmeo9s6tT3Y2s/giphy.gif" width="100%"/>
+<br/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Manda4FrNine)
 
 </div>
